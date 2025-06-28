@@ -6,6 +6,6 @@
 ![connect and push](pictures/picture3.png)
 # Working with Branches
 ![branches](pictures/picture4.png)
-![branchespt2](pictures/picture5.png) 
+![branches pt2](pictures/picture5.png) 
 # Merging vs. Rebasing
 ![merge and rebase](pictures/picture6.png)
